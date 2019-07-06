@@ -54,7 +54,7 @@ jupyter notebook Image_Classifier_Project.ipynb
 
 4. If using the command prompt, navigate at location `path/to/Flower_Classifier`
 ```
-jupyter notebook dog_breed_classifier.ipynb
+jupyter notebook Image_Classifier_Project.ipynb
 ```
 
   a. In the prompt, type
